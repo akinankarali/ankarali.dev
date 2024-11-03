@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Saim'in Kişisel Web Sitesi",
+  title: "Saim Akın Ankaralı",
   description: "Frontend Developer - Saim",
 };
 
