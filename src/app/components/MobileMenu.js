@@ -3,7 +3,7 @@
 import React, { useState } from 'react'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Menu, X, Home, ScrollText, Map, Layers, Briefcase, Bookmark, Github, Linkedin, Twitter } from 'lucide-react'
+import { Menu, X, Home, ScrollText, Map, Layers, Briefcase, Bookmark, Github, Linkedin, Twitter, FileText } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 const menuItems = [
