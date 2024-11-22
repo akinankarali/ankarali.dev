@@ -16,9 +16,10 @@ const menuItems = [
 ]
 
 const socialItems = [
-  { icon: Github, label: "GitHub", href: "https://github.com" },
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com" },
-  { icon: Twitter, label: "Twitter", href: "https://twitter.com" },
+  { icon: Github, label: "GitHub", href: "https://github.com/akinankarali" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/akinankarali/" },
+  { icon: Twitter, label: "Twitter", href: "https://x.com/akinankarali" },
+  { icon: FileText, label: "Medium", href: "https://medium.com/@saimakinankarali" },
 ]
 
 export function MobileMenu() {
